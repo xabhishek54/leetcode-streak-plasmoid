@@ -1,0 +1,22 @@
+{
+    "KPackageStructure": "Plasma/Applet",
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "abhishek54yt@gmail.com",
+                "Name": "xabhishek54"
+            }
+        ],
+        "BugReportUrl": "https://github.com/xabhishek54/leetcode-streak-plasmoid/issues",
+        "Category": "Utility",
+        "Description": "Modern dark LeetCode desktop widget for tracking streaks, activity heatmaps, and problem solving statistics on KDE Plasma 6",
+        "Icon": "code-context",
+        "Id": "com.custom.leetcode-streak",
+        "License": "GPL-3.0-or-later",
+        "Name": "LeetCode Streak",
+        "Website": "https://github.com/xabhishek54/leetcode-streak-plasmoid",
+        "Version": "1.0.0"
+    },
+    "X-Plasma-API-Minimum-Version": "6.0",
+    "X-Plasma-MainScript": "ui/main.qml"
+}
