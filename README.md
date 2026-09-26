@@ -57,21 +57,6 @@ kpackagetool6 --type Plasma/Applet --upgrade ./package
 | Activity Grid | Show or hide the heatmap grid | Enabled |
 | Statistics | Show or hide solved totals and active days | Enabled |
 
-## Standalone Testing
-To test the widget in a window without adding it to your desktop:
-```bash
-plasmawindowed com.custom.leetcode-streak
-```
-
-## Publishing to KDE Store
-To package and upload to [store.kde.org](https://store.kde.org):
-
-1. Create the `.plasmoid` release package:
-   ```bash
-   cd package
-   zip -r ../leetcode-streak-v1.0.0.plasmoid *
-   ```
-2. Upload `leetcode-streak-v1.0.0.plasmoid` to [store.kde.org](https://store.kde.org) under **Plasma 6 Applets / Widgets**.
 
 ## Uninstallation
 ```bash

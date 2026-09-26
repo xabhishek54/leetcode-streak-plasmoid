@@ -17,6 +17,13 @@
         "Website": "https://github.com/xabhishek54/leetcode-streak-plasmoid",
         "Version": "1.0.0"
     },
+    "X-KDE-PluginInfo-Author": "xabhishek54",
+    "X-KDE-PluginInfo-Email": "abhishek54yt@gmail.com",
+    "X-KDE-PluginInfo-Name": "com.custom.leetcode-streak",
+    "X-KDE-PluginInfo-Version": "1.0.0",
+    "X-KDE-PluginInfo-Website": "https://github.com/xabhishek54/leetcode-streak-plasmoid",
+    "X-KDE-PluginInfo-License": "GPL-3.0-or-later",
+    "X-KDE-PluginInfo-Category": "Utility",
     "X-Plasma-API-Minimum-Version": "6.0",
     "X-Plasma-MainScript": "ui/main.qml"
 }
