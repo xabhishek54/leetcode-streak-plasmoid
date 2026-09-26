@@ -1,6 +1,7 @@
 # LeetCode Streak
 
 A lightweight desktop widget (plasmoid) for KDE Plasma 6 that tracks your LeetCode problem-solving streak, daily activity, heatmap grid, and statistics directly on your desktop.
+
 <img width="535" height="480" alt="Screenshot_20260926_101249" src="https://github.com/user-attachments/assets/971f83fe-13c6-4bf7-a4f9-b0f9b82aa8f5" /> <img width="512" height="451" alt="Screenshot_20260926_101203" src="https://github.com/user-attachments/assets/e142790e-ccd6-48ae-abf1-16256e59f10b" /> <img width="532" height="494" alt="Screenshot_20260926_101319" src="https://github.com/user-attachments/assets/75245779-9506-4871-8bd6-9f7a3ba7f974" /> <img width="552" height="480" alt="Screenshot_20260926_101305" src="https://github.com/user-attachments/assets/2aa51e2f-6721-4cec-b7ea-c9c2e9d98a8d" />
 
 ## Features
